@@ -4,11 +4,11 @@ export default {};
 <template>
   <aside id="sidenav">
     <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-      <li>Item 4</li>
-      <li>Item 5</li>
+      <li>Livro 1</li>
+      <li>Livro 2</li>
+      <li>Livro 3</li>
+      <li>Livro 4</li>
+      <li>Livro 5</li>
     </ul>
   </aside>
 </template>
